@@ -2,7 +2,8 @@ def create_an_empty_array
   []
 end
 
-def create_an_array = ['whiskey', 'tequila', 'vodka', 'rum']
+def create_an_array
+  liquor = ['whiskey', 'tequila', 'vodka', 'rum']
 end
 
 def add_element_to_end_of_array(array, element)
